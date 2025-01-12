@@ -12,11 +12,11 @@ nano ~/.zshrc
 ```
 
 ```sh
-source ~/.zshrc
+alias love="/Applications/love.app/Contents/MacOS/love"
 ```
 
 ```sh
-alias love="/Applications/love.app/Contents/MacOS/love"
+source ~/.zshrc
 ```
 
 ```sh
